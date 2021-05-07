@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "data": {
+        "enabled": false,
+        "nova": true,
+        "fireblast": true,
+        "arcane": true,
+        "hailstorm": false,
+        "fusion": true,
+        "distance": 1000
+    }
+}
